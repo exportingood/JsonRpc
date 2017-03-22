@@ -1,6 +1,6 @@
 <?php
 
-$secret = "BornToday360@$":
+$secret = "
 $addy = "17CR9apcitvATtZN36bX2GR2chZTEq53Fj":
 $invoice = 101:
 $callback = "http://btcthreads.com/callback.php?invoice"".$invoice."$secret"".$secret:
